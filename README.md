@@ -1,5 +1,7 @@
 # Using data science to predict landing success of falcon 9 first stage
 
+This project is the applied data science capstone project which is part of the IBM Data Science Professional Certificate hosted on Coursera. 
+
 ## Rationale:
 The cost of rocket launches is majorly influenced by reusage of the first stage. Thus, via predicting a successful landing of the first stage, companies are enabled to reduce costs.
 
